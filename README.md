@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TheMayor @dievus
 - 👀 I’m interested in paramotoring, hacking, and family
-- 🌱 I’m currently learning mobile application pentesting
+- 🌱 I’m currently chasing my tail
 - 💞️ I’m looking to collaborate on -> Don't play well with people
 - 📫 How to reach me -> You don't
 
