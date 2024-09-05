@@ -11,7 +11,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC5J6JvH5F29FllbLjwmA5ZA?color=green&label=youtube%20subscribers&style=flat-square)](https://www.youtube.com/c/joehellethemayor)
 [![MayorSec Discord](https://img.shields.io/discord/721009459425574923?label=Discord&style=flat-square)](https://discord.com/invite/AWx2SxCD69)
 
-Hey everyone. I'm TheMayor, aka Joe Helle. I'm the Chief Hacking Officer and Red Team Lead at TCM Security. 
+Hey everyone. I'm TheMayor, aka Joe Helle. I'm the Red Team Lead at TCM Security. 
 
 - 👀 I’m interested in paramotoring, hacking, and family
 - 🌱 I’m currently chasing my tail
