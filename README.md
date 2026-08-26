@@ -2,7 +2,6 @@
 <p align="left">
   <img src="wwhf.png" />
 </p>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=dievus&show_icons=true&theme=dark" width="380">
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M03Q2JN)
 
