@@ -8,8 +8,6 @@
 
 [![Twitter: joehelle](https://img.shields.io/twitter/follow/joehelle?color=green&style=flat-square)](https://twitter.com/joehelle)
 [![GitHub Dievus](https://img.shields.io/github/followers/dievus?color=green&style=flat-square)](https://github.com/dievus)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC5J6JvH5F29FllbLjwmA5ZA?color=green&label=youtube%20subscribers&style=flat-square)](https://www.youtube.com/c/iamthemayor11)
-[![MayorSec Discord](https://img.shields.io/discord/721009459425574923?label=Discord&style=flat-square)](https://discord.com/invite/AWx2SxCD69)
 
 Hey everyone. I'm TheMayor, aka Joe Helle. 
 
